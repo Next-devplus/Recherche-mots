@@ -1,5 +1,5 @@
 # Recherche-mots
-Algorithme<hr><br>
+Algorithme<hr> 
 Entrée : Requête + corpus arabe<br>
 Sortie : Listes des réponses pertinents<br>
 Début<br>
@@ -16,8 +16,7 @@ Fin pour<br>
 Fin pour<br>
 -Extraction de réponses pertinents <br>
 Fin<br>
-
-Explication<hr><br>
+Explication<hr> 
 Analyse de requête :<br>
 On va appliquer : <br>
 •	Normalisation<br>
@@ -42,8 +41,7 @@ Analyse de documents(corpus)<br>
 Pour chaque corpus , on applique :<br>
 •	Normalisation et segmentation<br>
 Exemple : texte à normaliser<br>
- resultat : <br>
- 
+ resultat :<hr>  
 •	Eliminer les mots vides<br>
 •	Stemming<br>
 •	Indexation :exemple de résultat<br>
@@ -56,7 +54,5 @@ Calcul la similarité entre les vecteurs de requêtes et le vecteur de documents
 •	Extraction de réponses pertinents<br>
 
 N.B<hr>
-<br>
-
 •	Pour l’analyse et le traitement, on utilise la plateforme SAFAR<br>
 •	J’utilise le NetBeans<br>
